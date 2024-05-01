@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_goldenrod">#B38614</color>
+    <color name="gamboge_orange"> #A16608</color>
+    <color name= "windsor_tan"> #9C5900</color>
+    <color name="philippine_bronze">#703200</color>
+    <color name="upsdell_red">#b22929</color>
+    <color name="fire_engine_red">#cd2728</color>
+    <color name="permanent_geranium_lake">#e5292b</color>
+    <color name="spanish_yellow">#F8BA09</color>
+</resources>
