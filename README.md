@@ -9,6 +9,11 @@ Aplicativo Android nativo desenvolvido para avaliar qual combustível é mais va
 ## Tecnologias
 * Kotlin
 * Jetpack Compose
+  - Colum
+  - Box
+  - Modifiers
+  - AnimatedVisibility
+  - MutableStateOf
 		 
 
 ## Author
