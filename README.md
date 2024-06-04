@@ -3,7 +3,7 @@ Aplicativo Android nativo desenvolvido para avaliar qual combustível é mais va
 
 ## :camera_flash: Screenshots
 
-<img src="app/src/screens/alcool.png" width="280">&emsp;<img src="app/src/screens/gasolina.png" width="280">&emsp;<img src="app/src/screens/video-alcool-gasolina.gif" width="265">
+<img src="app/src/screens/alcool.png" width="250">&emsp;<img src="app/src/screens/gasolina.png" width="250">&emsp;<img src="app/src/screens/video-alcool-gasolina.gif" width="235">
 
 
 ## Tecnologias
